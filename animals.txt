@@ -6,3 +6,4 @@ lion
 tiger
 fox
 frog
+zebra
