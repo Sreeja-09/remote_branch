@@ -1,3 +1,4 @@
 dog --- bow-bow
 cat --- meow-meow
 lion ---roar
+cow --- amba
